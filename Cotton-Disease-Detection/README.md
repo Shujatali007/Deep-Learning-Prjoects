@@ -8,4 +8,5 @@ This folder contains following files.
 
 # Summary
 In this project we have 4 classes diseased leaf , diseased plant , freash leaf and freash plant. 
-In this notebook I will use transfer learning techniques like InceptionV3 and ResNet 50 and we'll check how our accuracy got affected with respect to these transfer learning models.
+
+In this project I will use transfer learning techniques like InceptionV3 and ResNet 50 and we'll check how our accuracy got affected with respect to these transfer learning models.
